@@ -1,1 +1,3 @@
-#Projeto de dev front end de um site PicPro
+# Projeto de dev front end de um site PicPro 
+
+## Versão 1.0
